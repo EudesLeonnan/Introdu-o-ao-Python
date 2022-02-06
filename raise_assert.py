@@ -6,5 +6,5 @@ def soma(n1, n2):
 print(soma(2, 2))
 
 x = -1
-assert x > 0, "Deu merda"
+assert x > 0, "Valor errado"
 print(x)
